@@ -1,6 +1,4 @@
-### [Predicting the fall: Revisiting the “Forecasting VIX peaks” experiment.
-Fernando De Meer
- 01/04/2020](https://quantdare.com/predicting-the-fall-revisiting-the-forecasting-vix-peaks-experiment/)
+## [Predicting the fall: Revisiting the “Forecasting VIX peaks” experiment. Fernando De Meer 01/04/2020](https://quantdare.com/predicting-the-fall-revisiting-the-forecasting-vix-peaks-experiment/)
 
  - 2020年二月份的SP500 Index波动起伏，是否可以成功预测fall，来提前发出警告。
  - 金融数据的特殊性，决定了预测的困难性：[源于作者的另一篇文章Generating Financial Series with Generative Adversarial Networks](https://quantdare.com/generating-financial-series-with-generative-adversarial-networks/)
